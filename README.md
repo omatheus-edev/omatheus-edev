@@ -1,16 +1,23 @@
 ## Hi there 👋
+### My name is Matheus 
 
-<!--
-**omatheus-edev/omatheus-edev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java student ☕
+- Passionate about programming 💻
+- Backend developer 👨‍💻
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omatheus-edev&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omatheus-edev&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omatheus-edev&theme=dark" alt="Streak de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <!-- Você pode trocar por MySQL ou outro se preferir -->
+</p>
